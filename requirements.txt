@@ -53,7 +53,7 @@ googleapis-common-protos==1.61.0
 graphviz==0.20.1
 grpcio==1.59.2
 grpcio-status==1.59.2
-gTTS==2.5.3
+
 h5py==3.10.0
 httplib2==0.22.0
 huggingface-hub==0.26.2
@@ -102,7 +102,6 @@ pure-eval==0.2.2
 py-cpuinfo==9.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
-PyAudio==0.2.14
 pycparser==2.21
 pydotplus==2.0.2
 Pygments==2.17.2
@@ -111,7 +110,7 @@ PyMySQL==1.1.0
 pyparsing==3.1.1
 pytesseract==0.3.10
 python-dateutil==2.8.2
-pyttsx3==2.98
+
 pytz==2023.3.post1
 PyYAML==6.0.1
 pyzmq==25.1.2
